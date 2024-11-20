@@ -1,8 +1,14 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a personal CRM using Rails.
-- 🌱 I’m currently learning to hack my way on this life.
-- 👯 I’m looking to collaborate on anything that you might need my help.
-- 🤔 I’m looking for help with hack my setup environment
+- 👯 I’m looking to collaborate on anything that you might need help.
 - 📫 How to reach me: https://viniciusrocha.com
 - ⚡ Fun fact: I'm a frustrated artist and comediant; I write code for living.
+- 😅 I'm also not a great open source contributer, as you can see on the following graph.
+
+<div align="center">
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vmrocha&show_icons=true&theme=vue-dark)
+  
+  [![Vinicius's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vmrocha&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
