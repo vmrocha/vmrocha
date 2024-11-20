@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on anything that you might need help.
 - 📫 How to reach me: https://viniciusrocha.com
 - ⚡ Fun fact: I'm a frustrated artist and comediant; I write code for living.
-- 😅 I'm also not a great open source contributer, as you can see on the following graph.
+- 😅 I'm also not a great open source contributer, as you can see on the following graphs.
 
 <div align="center">
   
